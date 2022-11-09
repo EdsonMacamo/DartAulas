@@ -9,4 +9,12 @@ void main() {
   print(everdadeiro);
 
   print('${listaDePalavras[0]} - ${listaDePalavras[1]}');
+
+  String? nome;
+  nome = 'Abc';
+  print(nome);
+
+  late String sobrenome;
+  sobrenome = "Disson";
+  print(sobrenome);
 }
